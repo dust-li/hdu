@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		}
+	],
+	"build_systems":
+	[
+		{
+			"name":"ACMhdu",
+			"working_dir":"${project_path}",
+			"cmd":["make"]
+		}
+	]
+}
