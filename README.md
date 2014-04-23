@@ -1,4 +1,5 @@
 hdu
 ===
 
-codes for the acm.hdu.edu.cn
+codes for some of the questions on acm.hdu.edu.cn.
+
